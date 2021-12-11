@@ -1,0 +1,40 @@
+html {
+    background-color: darkslateblue;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-size: 2.5rem;
+    color: white;
+}
+#buttonPlus {
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    background-color: greenyellow;
+    float: right;
+}
+
+#input {
+    height: 4rem;
+    width: 8rem;
+    font-size: 2rem;
+}
+
+#buttonNegative {
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    background-color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
