@@ -1,4 +1,4 @@
-html {
+/* html {
     background-color: darkslateblue;
 }
 
@@ -25,16 +25,16 @@ h2 {
     font-size: 2rem;
 }
 
-#buttonNegative {
+#clearButton {
     height: 4rem;
     width: 4rem;
     font-size: 2rem;
     border-radius: 0.5rem;
     background-color: red;
-}
+} */
 
-.container {
+/* .container {
     display: flex;
     justify-content: center;
-}
+} */
 
